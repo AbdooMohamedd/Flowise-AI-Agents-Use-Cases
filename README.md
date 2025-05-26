@@ -12,6 +12,10 @@ A research assistant workflow that helps users find answers by searching the web
 
 An invoice processing workflow that extracts structured data from invoice PDFs. The agent parses and organizes relevant information like invoice number, date, vendor details, and line items into a clean, structured format.
 
+### 3. [Customer Support Agent](./Customer%20Support%20Agent/README.md)
+
+A customer service workflow that answers questions about a business by retrieving information from a knowledge base of documents. This agent provides accurate responses to customer inquiries using vector search technology to find relevant information in company documentation.
+
 ## Future Projects
 
 This repository will continue to grow with more FlowiseAI use cases. Upcoming projects will explore different AI agent capabilities and practical business applications.
